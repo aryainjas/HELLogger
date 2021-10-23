@@ -1,2 +1,15 @@
 # HELLogger
-simple python keylogger
+simple python keylogger![photo_2021-10-23_12-46-38](https://user-images.githubusercontent.com/36337300/138550755-35f9e3e4-2e2d-47f8-94d1-cf8bf960205b.jpg)
+
+# DISCLAIMERS:
+DON'T DO BAD THINGS. THIS PROGRAM IS MEANT FOR PERSONAL USES ONLY. USE IT ONLY IN COMPUTERS WHERE YOU HAVE AUTHORIZED ACCESS.
+/
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+# HOW TO USE
+ 
+on linux  do $ sudo pip3 install pynput.
+ and on windows  do $ pip install pynput.
+simply use the nohup command on linux and .pyw on windows use it without noticing.
+
+            use this command to run 
+                  python3 HELLogger.py
