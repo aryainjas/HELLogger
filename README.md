@@ -17,4 +17,4 @@ simply use the nohup command on linux and .pyw on windows use it without noticin
 <a href="https://nowpayments.io/donation?api_key=8NWRRT9-GWM4NDE-JXPJF75-74ZY5D0" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
-  [![HitCount](http://hits.dwyl.com/aryainjas/HELLogger.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/HELLogger)    
+[![HitCount](http://hits.dwyl.com/aryainjas/HELLogger.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/HELLogger)    
